@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🎮 I'm currently working on a Fortnite private server.
+- 🎮 I'm currently working on a Fortnite private server & An Open Source Discord Bot.
 - 🌱 Learning all about **Unity**.
-- 📫 Contact me: [Discord](https://twitter.com/caneco).
+- 📫 Contact me on [discord](https://twitter.com/caneco).
 - ⚡️ Fun fact: I have a dog named Doug.
