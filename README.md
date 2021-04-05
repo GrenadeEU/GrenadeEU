@@ -2,7 +2,7 @@
 
 #### My name is Grenade. I am a .NET & Python Developer. I also like making games in unity!
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C#%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C#%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white)](https://www.python.org/)
 
 ##### BIO
 
