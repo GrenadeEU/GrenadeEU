@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 #### My name is Grenade. I am a .NET & Python Developer. I also like making games in unity!
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C#%20-%2314354C.svg?&style=for-the-badge&logo=c#&logoColor=white)](https://www.python.org/)
+[![star this repo](https://githubbadges.com/star.svg?user=r&repo=r&style=default)](https://github.com/r/r)
+[![fork this repo](https://githubbadges.com/fork.svg?user=r&repo=r&style=default)](https://github.com/r/r/fork)
 
 ##### BIO
 
