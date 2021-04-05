@@ -4,7 +4,4 @@
 
 ##### BIO
 
-- 🎮 I'm currently working on a open source Discord Bot.
-- 🌱 Learning all about **Unity**.
-- 📫 Contact me on [discord](https://twitter.com/caneco).
-- ⚡️ Fun fact: I have a dog named Doug.
+https://img.shields.io/badge/Discord%20Server%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white
