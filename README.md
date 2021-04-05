@@ -4,4 +4,4 @@
 
 ##### BIO
 
-[https://img.shields.io/badge/Discord%20Server%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white](google.com)
+[![Discord](https://img.shields.io/badge/Discord%20Server%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.bio/p/kyiro)
