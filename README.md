@@ -1,8 +1,7 @@
 ### Hey there 👋
 
-#### My name is Grenade. I am a .NET & Python Developer. I also like making games in unity!
-[![star this repo](https://githubbadges.com/star.svg?user=r&repo=r&style=default)](https://github.com/r/r)
-[![fork this repo](https://githubbadges.com/fork.svg?user=r&repo=r&style=default)](https://github.com/r/r/fork)
+#### My name is Grenade. I am a game developer, and currently working on a fortnite project called Melon!
+
 
 ##### BIO
 
