@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Grenade, I'm a developer at [Cole-bot](https://discord.gg/MS2akQUu9q).
+My name is Grenade, I'm just a random discord kid ;-;
 
 Sorry there is hardly nothing here, most of my work is closed source.
 
